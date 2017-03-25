@@ -1,10 +1,10 @@
 I have been quickly looking at differnet python web frameworks
 
-and have gone with a simpler micro framework, called bottle,
+and have gone with a simpler micro-framework, called flask,
 
 it doesn't have as much features as django but it will be quicker to make a website from it
 
-Some Python frameworks i took a look at:
+Some Python frameworks i had a look at:
  Bottle
  Pyramid
- Flask
+ Flask      <<<<< 
