@@ -5,5 +5,11 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 
+def makeCode():
+    return "Hello, world. You're at the polls index. <br> <h1>Woo</h1>"
+
+
+
 def index(request):
-    return HttpResponse("Hello, world. You're at the polls index.")
+    responce = HttpResponse(makeCode())
+    return responce
