@@ -6,7 +6,7 @@ from django.http import HttpResponse
 
 
 def makeCode():
-    return "Hello, world. You're at the polls index. <br> <h1>Woo</h1>"
+    return "It works, Hello, world. You're at the polls index. <br> <h1>Woo</h1>"
 
 
 
